@@ -1,0 +1,45 @@
+PRINT THE SIMILAR TOPICS IN CONSECUTIVE YEARS:EDGES SUBGRAPHS OVERLAPPING SIMILARITY
+
+2008-2009 --> linear matrix inequality <--> hybrid learning algorithm|recursive least squares filter|anfis|stability analysis|identification|recursion|gradient descent|adaptive neuro fuzzy inference system|particle swarm optimization|mathematical optimization
+1 set: {'numerical analysis', 'varying delays', 'exponential', 'neural networks', 'lyapunov fractal', 'lyapunov method', 'linear matrix inequality', 'mathematical optimization', 'artificial neural network', 'social inequality', 'global asymptotic stability', 'unbounded distributed delays'}
+2 set: {'stability analysis', 'hybrid learning algorithm', 'recursive least squares filter', 'system identifier', 'adaptive neuro fuzzy inference system', 'simulation', 'lyapunov fractal', 'recursion', 'gradient descent', 'identification', 'mathematical optimization', 'particle swarm optimization', 'anfis', 'machine learning'}
+edges subgraphs overlapping similarity: 1.0
+
+2014-2015 --> nonlinear system <--> lyapunov fractal|nonlinear system
+1 set: {'nonlinear system', 'simulation'}
+2 set: {'power semiconductor device', 'formal system', 'simulation', 'lyapunov fractal', 'approximation algorithm', 'nonlinear system'}
+edges subgraphs overlapping similarity: 1.0
+
+2015-2016 --> artificial neural network <--> neural network simulation|artificial neural network|mathematical optimization|algorithm|social inequality
+1 set: {'memristor', 'map', 'imagenet', 'artificial neural network', 'approximation algorithm', 'elm'}
+2 set: {'memristor', 'deep learning', 'open research', 'algorithm', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'machine learning', 'recurrent neural network', 'finite-time synchronization', 'adversary (cryptography)', 'dynamic programming', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'variational principle'}
+edges subgraphs overlapping similarity: 1.0
+
+2015-2016 --> neural network simulation <--> neural network simulation|artificial neural network|mathematical optimization|algorithm|social inequality
+1 set: {'neural network simulation', 'memristor'}
+2 set: {'memristor', 'deep learning', 'open research', 'algorithm', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'machine learning', 'recurrent neural network', 'finite-time synchronization', 'adversary (cryptography)', 'dynamic programming', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'variational principle'}
+edges subgraphs overlapping similarity: 1.0
+
+2015-2016 --> lyapunov fractal|nonlinear system <--> simulation|nonlinear system|lyapunov fractal
+1 set: {'power semiconductor device', 'formal system', 'simulation', 'lyapunov fractal', 'approximation algorithm', 'nonlinear system'}
+2 set: {'simulation', 'lyapunov fractal', 'dynamic programming', 'approximation algorithm', 'fuzzy logic', 'hysteresis', 'nonlinear system'}
+edges subgraphs overlapping similarity: 1.0
+
+2016-2017 --> neural network simulation|artificial neural network|mathematical optimization|algorithm|social inequality <--> lyapunov fractal|neural network simulation|social inequality|artificial neural network
+1 set: {'memristor', 'deep learning', 'open research', 'algorithm', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'machine learning', 'recurrent neural network', 'finite-time synchronization', 'adversary (cryptography)', 'dynamic programming', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'variational principle'}
+2 set: {'sampling - surgical action', 'lyapunov fractal', 'neural network simulation', 'data synchronization', 'artificial neural network', 'social inequality', 'recurrent neural network'}
+edges subgraphs overlapping similarity: 1.0
+
+2017-2018 --> mathematical optimization <--> mathematical optimization
+1 set: {'benchmark (computing)', 'firefly algorithm', 'mathematical optimization'}
+2 set: {'differential evolution', 'algorithm', 'simulation', 'mathematical optimization', 'benchmark (computing)', 'interaction'}
+edges subgraphs overlapping similarity: 1.0
+
+2017-2018 --> lyapunov fractal|neural network simulation|social inequality|artificial neural network <--> social inequality|lyapunov fractal
+1 set: {'sampling - surgical action', 'lyapunov fractal', 'neural network simulation', 'data synchronization', 'artificial neural network', 'social inequality', 'recurrent neural network'}
+2 set: {'numerical analysis', 'memristor', 'lyapunov fractal', 'neural network simulation', 'linear matrix inequality', 'social inequality'}
+edges subgraphs overlapping similarity: 1.0
+
+FINAL MERGED LIST:
+
+[{'numerical analysis', 'varying delays', 'stability analysis', 'neural networks', 'system identifier', 'simulation', 'lyapunov fractal', 'lyapunov method', 'recursion', 'linear matrix inequality', 'artificial neural network', 'identification', 'social inequality', 'machine learning', 'global asymptotic stability', 'exponential', 'hybrid learning algorithm', 'recursive least squares filter', 'adaptive neuro fuzzy inference system', 'gradient descent', 'mathematical optimization', 'particle swarm optimization', 'anfis', 'unbounded distributed delays'}, {'power semiconductor device', 'formal system', 'simulation', 'lyapunov fractal', 'approximation algorithm', 'nonlinear system'}, {'memristor', 'deep learning', 'open research', 'algorithm', 'linear matrix inequality', 'artificial neural network', 'elm', 'social inequality', 'machine learning', 'recurrent neural network', 'map', 'finite-time synchronization', 'adversary (cryptography)', 'dynamic programming', 'imagenet', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'variational principle'}, {'memristor', 'deep learning', 'open research', 'algorithm', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'machine learning', 'recurrent neural network', 'finite-time synchronization', 'adversary (cryptography)', 'dynamic programming', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'variational principle'}, {'power semiconductor device', 'formal system', 'simulation', 'lyapunov fractal', 'dynamic programming', 'approximation algorithm', 'fuzzy logic', 'hysteresis', 'nonlinear system'}, {'memristor', 'deep learning', 'open research', 'algorithm', 'lyapunov fractal', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'machine learning', 'recurrent neural network', 'finite-time synchronization', 'sampling - surgical action', 'adversary (cryptography)', 'dynamic programming', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'data synchronization', 'variational principle'}, {'differential evolution', 'algorithm', 'simulation', 'firefly algorithm', 'mathematical optimization', 'benchmark (computing)', 'interaction'}, {'numerical analysis', 'memristor', 'sampling - surgical action', 'lyapunov fractal', 'neural network simulation', 'linear matrix inequality', 'data synchronization', 'artificial neural network', 'social inequality', 'recurrent neural network'}]

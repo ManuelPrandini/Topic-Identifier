@@ -1,0 +1,175 @@
+PRINT THE SIMILAR TOPICS IN CONSECUTIVE YEARS:OVERLAPPING SIMILARITY
+
+2001-2002 --> signal processing <--> signal processing
+1 set: {'signal processing', 'fading', 'bayesian methods'}
+2 set: {'signal processing'}
+overlapping similarity: 1.0
+
+2001-2002 --> state estimation <--> state estimation
+1 set: {'state estimation'}
+2 set: {'state estimation'}
+overlapping similarity: 1.0
+
+2001-2002 --> filtering <--> bayesian methods
+1 set: {'filtering', 'bayesian methods'}
+2 set: {'bayesian methods'}
+overlapping similarity: 1.0
+
+2001-2002 --> filtering algorithms <--> filtering algorithms
+1 set: {'filtering algorithms', 'particle filters'}
+2 set: {'filtering algorithms'}
+overlapping similarity: 1.0
+
+2006-2007 --> linear matrix inequality <--> linear matrix inequality
+1 set: {'linear matrix inequality', 'time delays'}
+2 set: {'linear matrix inequality', 'lyapunov–krasovskii functional'}
+overlapping similarity: 0.5
+
+2006-2007 --> lyapunov–krasovskii functional <--> linear matrix inequality
+1 set: {'lyapunov–krasovskii functional'}
+2 set: {'linear matrix inequality', 'lyapunov–krasovskii functional'}
+overlapping similarity: 1.0
+
+2006-2007 --> distributed delays <--> lyapunov functional
+1 set: {'distributed delays', 'discrete delays'}
+2 set: {'distributed delays', 'lyapunov functional'}
+overlapping similarity: 0.5
+
+2006-2007 --> time-varying delays|global exponential stability <--> time-varying delays
+1 set: {'periodic solution', 'neural networks', 'global exponential stability', 'time-varying delays'}
+2 set: {'time-varying delays'}
+overlapping similarity: 1.0
+
+2007-2008 --> artificial neural network <--> linear matrix inequality
+1 set: {'artificial neural network'}
+2 set: {'numerical analysis', 'varying delays', 'exponential', 'neural networks', 'lyapunov fractal', 'lyapunov method', 'linear matrix inequality', 'mathematical optimization', 'artificial neural network', 'social inequality', 'global asymptotic stability', 'unbounded distributed delays'}
+overlapping similarity: 1.0
+
+2007-2008 --> linear matrix inequality <--> linear matrix inequality
+1 set: {'linear matrix inequality', 'lyapunov–krasovskii functional'}
+2 set: {'numerical analysis', 'varying delays', 'exponential', 'neural networks', 'lyapunov fractal', 'lyapunov method', 'linear matrix inequality', 'mathematical optimization', 'artificial neural network', 'social inequality', 'global asymptotic stability', 'unbounded distributed delays'}
+overlapping similarity: 0.5
+
+2007-2008 --> social inequality <--> linear matrix inequality
+1 set: {'social inequality'}
+2 set: {'numerical analysis', 'varying delays', 'exponential', 'neural networks', 'lyapunov fractal', 'lyapunov method', 'linear matrix inequality', 'mathematical optimization', 'artificial neural network', 'social inequality', 'global asymptotic stability', 'unbounded distributed delays'}
+overlapping similarity: 1.0
+
+2008-2009 --> linear matrix inequality <--> hybrid learning algorithm|recursive least squares filter|anfis|stability analysis|identification|recursion|gradient descent|adaptive neuro fuzzy inference system|particle swarm optimization|mathematical optimization
+1 set: {'numerical analysis', 'varying delays', 'exponential', 'neural networks', 'lyapunov fractal', 'lyapunov method', 'linear matrix inequality', 'mathematical optimization', 'artificial neural network', 'social inequality', 'global asymptotic stability', 'unbounded distributed delays'}
+2 set: {'stability analysis', 'hybrid learning algorithm', 'recursive least squares filter', 'system identifier', 'adaptive neuro fuzzy inference system', 'simulation', 'lyapunov fractal', 'recursion', 'gradient descent', 'identification', 'mathematical optimization', 'particle swarm optimization', 'anfis', 'machine learning'}
+overlapping similarity: 0.16666666666666666
+
+2009-2010 --> hybrid learning algorithm|recursive least squares filter|anfis|stability analysis|identification|recursion|gradient descent|adaptive neuro fuzzy inference system|particle swarm optimization|mathematical optimization <--> multi-agent system|reinforcement learning|interference (communication)
+1 set: {'stability analysis', 'hybrid learning algorithm', 'recursive least squares filter', 'system identifier', 'adaptive neuro fuzzy inference system', 'simulation', 'lyapunov fractal', 'recursion', 'gradient descent', 'identification', 'mathematical optimization', 'particle swarm optimization', 'anfis', 'machine learning'}
+2 set: {'overhead (computing)', 'action selection', 'algorithm', 'reinforcement learning', 'centralized computing', 'simulation', 'multi-agent system', 'real-time transcription', 'cognitive radio', 'interaction', 'self-organization', 'real-time clock', "whole earth 'lectronic link", 'coexist (image)', 'q-learning', 'rate of convergence', 'mathematical optimization', 'programming paradigm', 'interference (communication)'}
+overlapping similarity: 0.14285714285714285
+
+2014-2015 --> nonlinear system <--> lyapunov fractal|nonlinear system
+1 set: {'nonlinear system', 'simulation'}
+2 set: {'power semiconductor device', 'formal system', 'simulation', 'lyapunov fractal', 'approximation algorithm', 'nonlinear system'}
+overlapping similarity: 1.0
+
+2014-2015 --> numerical analysis <--> numerical analysis
+1 set: {'numerical analysis'}
+2 set: {'numerical analysis', 'anatomy regional', 'social inequality', 'time complexity'}
+overlapping similarity: 1.0
+
+2014-2015 --> neural network simulation <--> neural network simulation
+1 set: {'social inequality', 'neural network simulation', 'exponential'}
+2 set: {'neural network simulation', 'memristor'}
+overlapping similarity: 0.5
+
+2014-2015 --> optimal control <--> optimal control
+1 set: {'simulation', 'optimal control'}
+2 set: {'optimal control'}
+overlapping similarity: 1.0
+
+2014-2015 --> approximation algorithm <--> lyapunov fractal|nonlinear system
+1 set: {'partition function (mathematics)', 'approximation algorithm', 'autoencoder'}
+2 set: {'power semiconductor device', 'formal system', 'simulation', 'lyapunov fractal', 'approximation algorithm', 'nonlinear system'}
+overlapping similarity: 0.3333333333333333
+
+2014-2015 --> ilya sutskever|artificial neural network <--> numerical analysis
+1 set: {'ilya sutskever', 'simulation', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'recurrent neural network', 'alex krizhevsky', 'alex graves', 'random neural network', 'quoc v. le', 'xiang zhang', 'pixel', 'geoffrey e. hinton', 'yoshua bengio', 'activation function', 'lyapunov–krasovskii functional'}
+2 set: {'numerical analysis', 'anatomy regional', 'social inequality', 'time complexity'}
+overlapping similarity: 0.25
+
+2014-2015 --> mathematical optimization|lyapunov fractal <--> mathematical optimization
+1 set: {'constrained optimization', 'evolutionary algorithm', 'lyapunov fractal', 'convex optimization', 'ant colony optimization algorithms', 'rate of convergence', 'mathematical optimization', 'http public key pinning', 'genetic algorithm'}
+2 set: {'mathematical optimization'}
+overlapping similarity: 1.0
+
+2015-2016 --> artificial neural network <--> neural network simulation|artificial neural network|mathematical optimization|algorithm|social inequality
+1 set: {'memristor', 'map', 'imagenet', 'artificial neural network', 'approximation algorithm', 'elm'}
+2 set: {'memristor', 'deep learning', 'open research', 'algorithm', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'machine learning', 'recurrent neural network', 'finite-time synchronization', 'adversary (cryptography)', 'dynamic programming', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'variational principle'}
+overlapping similarity: 0.5
+
+2015-2016 --> numerical analysis <--> numerical analysis
+1 set: {'numerical analysis', 'anatomy regional', 'social inequality', 'time complexity'}
+2 set: {'numerical analysis', 'finite-time synchronization'}
+overlapping similarity: 0.5
+
+2015-2016 --> algorithm <--> neural network simulation|artificial neural network|mathematical optimization|algorithm|social inequality
+1 set: {'algorithm'}
+2 set: {'memristor', 'deep learning', 'open research', 'algorithm', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'machine learning', 'recurrent neural network', 'finite-time synchronization', 'adversary (cryptography)', 'dynamic programming', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'variational principle'}
+overlapping similarity: 1.0
+
+2015-2016 --> neural network simulation <--> neural network simulation|artificial neural network|mathematical optimization|algorithm|social inequality
+1 set: {'neural network simulation', 'memristor'}
+2 set: {'memristor', 'deep learning', 'open research', 'algorithm', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'machine learning', 'recurrent neural network', 'finite-time synchronization', 'adversary (cryptography)', 'dynamic programming', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'variational principle'}
+overlapping similarity: 1.0
+
+2015-2016 --> mathematical optimization <--> neural network simulation|artificial neural network|mathematical optimization|algorithm|social inequality
+1 set: {'mathematical optimization'}
+2 set: {'memristor', 'deep learning', 'open research', 'algorithm', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'machine learning', 'recurrent neural network', 'finite-time synchronization', 'adversary (cryptography)', 'dynamic programming', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'variational principle'}
+overlapping similarity: 1.0
+
+2015-2016 --> lyapunov fractal|nonlinear system <--> simulation|nonlinear system|lyapunov fractal
+1 set: {'power semiconductor device', 'formal system', 'simulation', 'lyapunov fractal', 'approximation algorithm', 'nonlinear system'}
+2 set: {'simulation', 'lyapunov fractal', 'dynamic programming', 'approximation algorithm', 'fuzzy logic', 'hysteresis', 'nonlinear system'}
+overlapping similarity: 0.6666666666666666
+
+2016-2017 --> numerical analysis <--> numerical analysis
+1 set: {'numerical analysis', 'finite-time synchronization'}
+2 set: {'numerical analysis', 'recurrent neural network'}
+overlapping similarity: 0.5
+
+2016-2017 --> simulation|nonlinear system|lyapunov fractal <--> nonlinear system
+1 set: {'simulation', 'lyapunov fractal', 'dynamic programming', 'approximation algorithm', 'fuzzy logic', 'hysteresis', 'nonlinear system'}
+2 set: {'nonlinear system'}
+overlapping similarity: 1.0
+
+2016-2017 --> neural network simulation|artificial neural network|mathematical optimization|algorithm|social inequality <--> algorithm
+1 set: {'memristor', 'deep learning', 'open research', 'algorithm', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'machine learning', 'recurrent neural network', 'finite-time synchronization', 'adversary (cryptography)', 'dynamic programming', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'variational principle'}
+2 set: {'algorithm'}
+overlapping similarity: 1.0
+
+2017-2018 --> numerical analysis <--> social inequality|lyapunov fractal
+1 set: {'numerical analysis', 'recurrent neural network'}
+2 set: {'numerical analysis', 'memristor', 'lyapunov fractal', 'neural network simulation', 'linear matrix inequality', 'social inequality'}
+overlapping similarity: 0.5
+
+2017-2018 --> algorithm <--> mathematical optimization
+1 set: {'algorithm'}
+2 set: {'differential evolution', 'algorithm', 'simulation', 'mathematical optimization', 'benchmark (computing)', 'interaction'}
+overlapping similarity: 1.0
+
+2017-2018 --> mathematical optimization <--> mathematical optimization
+1 set: {'benchmark (computing)', 'firefly algorithm', 'mathematical optimization'}
+2 set: {'differential evolution', 'algorithm', 'simulation', 'mathematical optimization', 'benchmark (computing)', 'interaction'}
+overlapping similarity: 0.6666666666666666
+
+2017-2018 --> simulation <--> mathematical optimization
+1 set: {'estimated', 'simulation', 'time complexity'}
+2 set: {'differential evolution', 'algorithm', 'simulation', 'mathematical optimization', 'benchmark (computing)', 'interaction'}
+overlapping similarity: 0.3333333333333333
+
+2017-2018 --> lyapunov fractal|neural network simulation|social inequality|artificial neural network <--> social inequality|lyapunov fractal
+1 set: {'sampling - surgical action', 'lyapunov fractal', 'neural network simulation', 'data synchronization', 'artificial neural network', 'social inequality', 'recurrent neural network'}
+2 set: {'numerical analysis', 'memristor', 'lyapunov fractal', 'neural network simulation', 'linear matrix inequality', 'social inequality'}
+overlapping similarity: 0.5
+
+FINAL MERGED LIST:
+
+[{'signal processing', 'fading', 'bayesian methods'}, {'state estimation'}, {'filtering', 'bayesian methods'}, {'filtering algorithms', 'particle filters'}, {'lyapunov–krasovskii functional', 'linear matrix inequality', 'time delays'}, {'linear matrix inequality', 'lyapunov–krasovskii functional'}, {'distributed delays', 'discrete delays', 'lyapunov functional'}, {'periodic solution', 'neural networks', 'global exponential stability', 'time-varying delays'}, {'numerical analysis', 'varying delays', 'exponential', 'neural networks', 'lyapunov fractal', 'lyapunov method', 'linear matrix inequality', 'artificial neural network', 'mathematical optimization', 'social inequality', 'global asymptotic stability', 'unbounded distributed delays'}, {'numerical analysis', 'varying delays', 'exponential', 'neural networks', 'lyapunov fractal', 'lyapunov method', 'linear matrix inequality', 'mathematical optimization', 'artificial neural network', 'social inequality', 'global asymptotic stability', 'unbounded distributed delays', 'lyapunov–krasovskii functional'}, {'numerical analysis', 'varying delays', 'stability analysis', 'neural networks', 'system identifier', 'simulation', 'lyapunov fractal', 'lyapunov method', 'recursion', 'linear matrix inequality', 'artificial neural network', 'identification', 'social inequality', 'machine learning', 'global asymptotic stability', 'exponential', 'hybrid learning algorithm', 'recursive least squares filter', 'adaptive neuro fuzzy inference system', 'gradient descent', 'mathematical optimization', 'particle swarm optimization', 'anfis', 'unbounded distributed delays'}, {'action selection', 'algorithm', 'reinforcement learning', 'simulation', 'recursion', 'centralized computing', 'cognitive radio', 'machine learning', 'interaction', 'hybrid learning algorithm', 'recursive least squares filter', 'adaptive neuro fuzzy inference system', 'coexist (image)', 'particle swarm optimization', 'anfis', 'overhead (computing)', 'stability analysis', 'system identifier', 'lyapunov fractal', 'multi-agent system', 'real-time transcription', 'identification', 'self-organization', 'real-time clock', "whole earth 'lectronic link", 'gradient descent', 'q-learning', 'rate of convergence', 'mathematical optimization', 'programming paradigm', 'interference (communication)'}, {'power semiconductor device', 'formal system', 'simulation', 'lyapunov fractal', 'approximation algorithm', 'nonlinear system'}, {'numerical analysis', 'anatomy regional', 'social inequality', 'time complexity'}, {'neural network simulation', 'exponential', 'memristor', 'social inequality'}, {'simulation', 'optimal control'}, {'power semiconductor device', 'formal system', 'simulation', 'lyapunov fractal', 'partition function (mathematics)', 'approximation algorithm', 'autoencoder', 'nonlinear system'}, {'numerical analysis', 'ilya sutskever', 'simulation', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'recurrent neural network', 'alex krizhevsky', 'alex graves', 'random neural network', 'anatomy regional', 'quoc v. le', 'xiang zhang', 'pixel', 'geoffrey e. hinton', 'yoshua bengio', 'activation function', 'lyapunov–krasovskii functional', 'time complexity'}, {'constrained optimization', 'evolutionary algorithm', 'lyapunov fractal', 'convex optimization', 'ant colony optimization algorithms', 'rate of convergence', 'mathematical optimization', 'http public key pinning', 'genetic algorithm'}, {'memristor', 'deep learning', 'open research', 'algorithm', 'linear matrix inequality', 'artificial neural network', 'elm', 'social inequality', 'machine learning', 'recurrent neural network', 'map', 'finite-time synchronization', 'adversary (cryptography)', 'dynamic programming', 'imagenet', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'variational principle'}, {'numerical analysis', 'anatomy regional', 'social inequality', 'finite-time synchronization', 'time complexity'}, {'memristor', 'deep learning', 'open research', 'algorithm', 'linear matrix inequality', 'artificial neural network', 'social inequality', 'machine learning', 'recurrent neural network', 'finite-time synchronization', 'adversary (cryptography)', 'dynamic programming', 'neural network simulation', 'time-varying delay', 'approximation algorithm', 'mathematical optimization', 'numerical linear algebra', 'variational principle'}, {'power semiconductor device', 'formal system', 'simulation', 'lyapunov fractal', 'dynamic programming', 'approximation algorithm', 'fuzzy logic', 'hysteresis', 'nonlinear system'}, {'numerical analysis', 'recurrent neural network', 'finite-time synchronization'}, {'approximation algorithm', 'fuzzy logic', 'hysteresis', 'nonlinear system', 'simulation', 'lyapunov fractal', 'dynamic programming'}, {'numerical analysis', 'memristor', 'lyapunov fractal', 'neural network simulation', 'linear matrix inequality', 'social inequality', 'recurrent neural network'}, {'differential evolution', 'mathematical optimization', 'benchmark (computing)', 'interaction', 'algorithm', 'simulation'}, {'differential evolution', 'algorithm', 'simulation', 'firefly algorithm', 'mathematical optimization', 'benchmark (computing)', 'interaction'}, {'differential evolution', 'algorithm', 'simulation', 'mathematical optimization', 'benchmark (computing)', 'interaction', 'estimated', 'time complexity'}, {'numerical analysis', 'memristor', 'sampling - surgical action', 'lyapunov fractal', 'neural network simulation', 'linear matrix inequality', 'data synchronization', 'artificial neural network', 'social inequality', 'recurrent neural network'}]
